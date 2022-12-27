@@ -1,7 +1,7 @@
 # Smart Thermometer
 ![Intro](Images/Intro.jpg)
 
-A very accurate portable thermometer with a OLED display, temperature range LEDs, and a Li Ion battery, powered by a Adafruit Feather M0 Express. Using the 12 bit ADC of the M0 and 2 filtering capacitors for power and data, the thermometer is able to get very precise readings from a custom made waterproof TMP36 probe, which are displayed on the OLED screen and indicated by red, green, and blue LEDs for different ranges. The device is also able to measure the remaining battery percentage from the batter voltage using a charge curve.
+A very accurate portable thermometer with a OLED display, temperature range LEDs, and a Li Ion battery, powered by a Adafruit Feather M0 Express. Using the 12 bit ADC of the M0 and 2 filtering capacitors for power and data, the thermometer is able to get very precise readings from a custom made waterproof TMP36 probe, which are displayed on the OLED screen and indicated by red, green, and blue LEDs for different ranges. The device is also able to measure the remaining battery percentage from the battery voltage using a charge curve.
 
 ## Controller Unit
 ![Control](Images/Control.jpg)
